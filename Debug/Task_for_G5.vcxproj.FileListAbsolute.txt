@@ -1,0 +1,4 @@
+C:\Users\Asus\source\repos\Task_for_G5\Debug\Task_for_G5.exe
+C:\Users\Asus\source\repos\Task_for_G5\Debug\Task_for_G5.pdb
+D:\WorkSpaceForBohdan\Task_for_G5\Debug\Task_for_G5.exe
+D:\WorkSpaceForBohdan\Task_for_G5\Debug\Task_for_G5.pdb
