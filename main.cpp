@@ -4,7 +4,7 @@
 
 #include <iostream>
 
-const bool isInt    = true;
+const bool isInt    = true;//for test
 const bool isString = false;
 
 std::string NameTest(bool _isInt)
